@@ -37,3 +37,6 @@ resource "aws_db_instance" "mariadb" {
   }
 }
 
+
+# mysql -u root -h mariadb.c1ewo6m2sffn.ap-southeast-1.rds.amazonaws.com -p 
+# After that, enter password when prompt
